@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png"> -->
+<img width="auto" src="https://github.com/Brxlx/Brxlx/blob/master/curso-de-node-js-react-native.jpg">
 
 # Bruno Santos GitHub Profile
 
@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 ### Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ :rocket:  &nbsp; Trabalho com algumas das tecnologias mais modernas do mercado
+ <br/> :purple_heart: &nbsp; Frontend com ReactJS & React Native, Backend com Node.js
  <br/> :computer: &nbsp; Minha stack: Node.Js, ReactJS, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Apaixonado por tecnologia, programação, games e simuladores
  ---
