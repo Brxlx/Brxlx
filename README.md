@@ -27,8 +27,8 @@ Here are some ideas to get you started:
  <br/> 💬  &nbsp; Sobre mim: Apaixonado por tecnologia, programação, games e simuladores;
  ---
  ## Contato
- <br /> 🔗 &nbsp; [![Website Badge]](https://bruno-dev.vercel.app)
- <br/> :email: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Santos-teal?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santos-a14b72196/)](https://www.linkedin.com/in/bruno-santos-a14b72196/) 
+ <br /> 🔗 &nbsp; [![Portfolio]](https://bruno-dev.vercel.app)
+ <br/> :link: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Santos-teal?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santos-a14b72196/)](https://www.linkedin.com/in/bruno-santos-a14b72196/) 
 <br /> :email: &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Bruno%20Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brcesar19@gmail.com)](mailto:brcesar19@gmail.com)
 
 ---
