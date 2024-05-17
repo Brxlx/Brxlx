@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <img width="auto" src="https://github.com/Brxlx/Brxlx/blob/master/curso-de-node-js-react-native.jpg">
 
+<a href="https://app.rocketseat.com.br/me/bruno-santos"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=bruno-santos&type=card" width="280" alt="Bruno César Santos's Rocket ID"/></a>
+
 # Bruno Santos GitHub Profile
 
 ### 🖥️ 🖥️ 🖥️
@@ -28,7 +30,7 @@ Here are some ideas to get you started:
  ---
  ## Contato
  <br /> 🔗 &nbsp; [Portfolio](https://bruno-dev.vercel.app)
- <br/> :link: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Santos-teal?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santos-a14b72196/)](https://www.linkedin.com/in/bruno-santos-a14b72196/) 
+ <br/> :link: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Santos-teal?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocesantos/)](https://www.linkedin.com/in/brunocesantos/) 
 <br /> :email: &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Bruno%20Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brcesar19@gmail.com)](mailto:brcesar19@gmail.com)
 
 ---
