@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Senior Software Developer<br>Javascript/Typescript Developer<br>Content Creator at @mao-no-codigo</p>
+<p align="left">Senior Software Developer<br>Main Language Javascript/Typescript<br>Content Creator at @mao-no-codigo</p>
 
 ###
 
