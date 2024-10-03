@@ -1,38 +1,71 @@
-<!--
-**Brxlx/Brxlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">About me</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">- Senior Software Developer<br>- Javascript/Typescript Developer<br>- Content Creator at @mao-no-codigo</p>
 
-<img width="auto" src="https://github.com/Brxlx/Brxlx/blob/master/curso-de-node-js-react-native.jpg">
+###
 
-<a href="https://app.rocketseat.com.br/me/bruno-santos"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=bruno-santos&type=card" width="280" alt="Bruno César Santos's Rocket ID"/></a>
+<p align="left">Techs</p>
 
-# Bruno Santos GitHub Profile
+###
 
-### 🖥️ 🖥️ 🖥️
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
 
-### Sou um FullStack Developer :computer:
+###
 
- :rocket:  &nbsp; Trabalho há mais de 5 anos com algumas das tecnologias mais modernas do mercado;
- <br/> :purple_heart: &nbsp; Frontend com ReactJS & React Native, Backend com Node.js;
- <br/> :computer: &nbsp; Minha stack: Node.Js, ReactJS, React Native & Typescript;
- <br/> 💬  &nbsp; Sobre mim: Apaixonado por tecnologia, programação, games e simuladores;
- ---
- ## Contato
- <br /> 🔗 &nbsp; [Portfolio](https://bruno-dev.vercel.app)
- <br/> :link: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Santos-teal?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocesantos/)](https://www.linkedin.com/in/brunocesantos/) 
-<br /> :email: &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Bruno%20Santos-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brcesar19@gmail.com)](mailto:brcesar19@gmail.com)
+<h2 align="left">Stats</h2>
 
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brxlx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=brxlx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Meus%20status%20do%20perfil" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brxlx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brxlx&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/brunocesantos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="36" alt="linkedin logo"  />
+  </a>
+  <a href="https://youtube.com/@mao-no-codigo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="72" height="36" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/brcesar19" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="36" alt="instagram logo"  />
+  </a>
+</div>
+
+###
