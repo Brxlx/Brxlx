@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Senior Software Developer<br>**Main Language Javascript/Typescript**<br>Content Creator at @mao-no-codigo</p>
+<p align="left">Senior Software Developer<br>Main Language Javascript/Typescript<br>Now more focused on backend<br>Frameworks like React, Express, Fastify and Nest.js<br>Learning Java/Spring Boot<br>Content Creator at @mao-no-codigo</p>
 
 ###
 
@@ -12,6 +12,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
