@@ -62,7 +62,7 @@
   <a href="https://linkedin.com/in/brunocesantos" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="36" alt="linkedin logo"  />
   </a>
-  <a href="https://youtube.com/@mao-no-codigo" target="_blank">
+  <a href="https://youtube.com/@devmaonocodigo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="72" height="36" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/brcesar19" target="_blank">
