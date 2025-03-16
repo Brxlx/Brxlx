@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Senior Software Developer<br>Main Language Javascript/Typescript<br>Now more focused on backend<br>Frameworks like React, Express, Fastify and Nest.js<br>Learning Java/Spring Boot<br>Content Creator at @devmaonocodigo</p>
+<p align="left">Senior Software Developer<br>Main Language Javascript/Typescript<br>Now more focused on backend<br>Frameworks like React, Express, Fastify and Nest.js<br>Learning Java/Spring Boot<br>I create YouTube Content at @devmaonocodigo</p>
 
 ###
 
