@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Senior Software Developer<br>Main Language Javascript/Typescript<br>Now more focused on backend<br>Frameworks like React, Express, Fastify and Nest.js<br>Learning Java/Spring Boot<br>I create YouTube Content at <a href="https://youtube.com/@devmaonocodigo" target="_blank">@devmaonocodigo</a></p>
+<p align="left">Senior Full-Stack Software Developer<br>Main Language Javascript/Typescript<br>Now more focused on backend<br>Frameworks like React, Express, Fastify and Nest.js<br>Learning Java/Spring Boot<br>I create YouTube Content at <a href="https://youtube.com/@devmaonocodigo" target="_blank">@devmaonocodigo</a></p>
 
 ###
 
